@@ -53,6 +53,4 @@ Below are the sample images used in the puzzle:
 - `agent/`: AI agents for solving the puzzle
 - `images/`: Image assets for the puzzle
 - `score/`: Score tracking
-
-## Author
-*Abdullah Bilici*
+- 
